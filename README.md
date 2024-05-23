@@ -5,10 +5,11 @@ This repository contains my coursework for the Python programming course. The co
 ## Contents
 
 - **Quizzes**: Six quizzes covering various topics in Python.
-- **Assignments**: Two assignments one called Roman and another is maze.
+- **Assignments**: Two assignments with detailed descriptions in `assignment1.pdf` and `assignment2.pdf`.
 
-## Scores Overall 45/50
+## Scores
 
 - **Quizzes**: 23/24
 - **Assignments**: 22.5/26
+- **Overall**: 45/50
 
