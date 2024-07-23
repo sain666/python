@@ -1,6 +1,6 @@
-# Assignments in level1 python course
+## Level1 python course
 
-This repository contains my coursework for the Python programming course. The course included six quizzes and two assignments.
+This repository contains my coursework in level 1 Python. It contains six quizzes and two assignments in total.
 
 ## Contents
 
